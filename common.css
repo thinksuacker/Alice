@@ -1,0 +1,11 @@
+.user-guide a.user-guide-btn {
+  display: inline-block;
+  padding: 3px 12px;
+  background-color: #0B0;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
